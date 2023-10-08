@@ -23,10 +23,11 @@ This Python-based movie recommendation system uses three different approaches: c
   git clone https://github.com/yourusername/movie-recommendation-system.git
   cd movie-recommendation-system
   pip install -r requirements.txt
-
+```
 ## Usage
 1. Prepare your movie dataset and user preferences data.
 2. Run the recommendation system using one of the provided approaches:
 
 ```bash
 python main.py --approach collaborative
+```
